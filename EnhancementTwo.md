@@ -8,7 +8,7 @@
 
 <p><strong>Link to Repository</strong></p>
 
-<p><a href="https://github.com/kdilick9/Data-Structures-Algorithms">Enhancement Two Repository</a></p>
+<p><a href="https://github.com/briansnhu/Data-Structures-Algorithms">Enhancement Two Repository</a></p>
 
 <p><strong>Porfolio Links</strong><br /></p>
 <ul>
