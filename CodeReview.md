@@ -19,8 +19,7 @@
 
 <p><strong>Code Review</strong></p>
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yVP35t4-eYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iCc0o8kf-RA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><strong>Porfolio Links</strong><br /></p>
