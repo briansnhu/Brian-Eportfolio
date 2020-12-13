@@ -8,7 +8,7 @@
 
 <p><strong>Link to Repository</strong></p>
 
-<p><a href="https://github.com/brianshnu/Software-Engineering-Design">Enhancement One Repository</a></p>
+<p><a href="https://github.com/briansnhu/Software-Engineering-Design">Enhancement One Repository</a></p>
 
 <p><strong>Porfolio Links</strong><br /></p>
 <ul>
