@@ -7,7 +7,7 @@
 
 <p><strong>Link to Repository</strong></p>
 
-<p><a href="https://github.com/kdilick9/Databases">Enhancement Three Repository</a></p>
+<p><a href="https://github.com/briansnhu/Databases">Enhancement Three Repository</a></p>
 
 <p><strong>Porfolio Links</strong><br /></p>
 <ul>
