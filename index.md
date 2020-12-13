@@ -22,7 +22,7 @@
 
 <p><strong>Porfolio Links</strong><br /></p>
 <ul>
-  <li><a href="https://briansnhu.github.io/index.html">Professional Self-Assessment</a><br /></li>
+  <li><a href="https://briansnhu.github.io/Brian-Eportfolio/">Professional Self-Assessment</a><br /></li>
   <li><a href="https://briansnhu.github.io/CodeReview.html">Refinement Plan &amp; Code Review</a><br /></li>
   <li><a href="https://briansnhu.github.io/EnhancementOne.html">Enhancement One</a><br /></li>
   <li><a href="https://briansnhu.github.io/EnhancementTwo.html">Enhancement Two</a><br /></li>
