@@ -31,18 +31,3 @@
   <li><a href="https://kdilick9.github.io/EnhancementTwo.html">Enhancement Two</a><br /></li>
   <li><a href="https://kdilick9.github.io/EnhancementThree.html">Enhancement Three</a></li>
 </ul>
-
-        </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-  </body>
-</html>
