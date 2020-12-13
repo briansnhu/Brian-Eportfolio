@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<h1 id="cs-499-eportfolio">CS-499 ePortfolio</h1>
 
-You can use the [editor on GitHub](https://github.com/briansnhu/eportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 id="introduction">Introduction</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>I’ve been in the SNHU Computer Science program since July 2017. I started school at the San Diego Community College before transferring to San Diego State University as an Accounting major. I ended up dropping out school back in 2014 to take some time off before joining the military in 2016. I’m now hoping to complete my final class for the Computer Science program and finally earn my bachelor’s degree.</p>
 
-### Markdown
+<h2 id="educational-reflection">Educational Reflection</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>I’ve learned a lot of things while in this program. First off, while not directly related to the program, I think attention to detail is a crucial skill. There have been many times that my code has failed to compile, all because of a simple mistake or typo in the code. Attention to detail sort of relates to the concept of code reviews. By using code reviews, we can have our peers review our code and look for mistakes that we may have missed. Like with proofreading a paper, having a fresh set of eyes on something can help pinpoint easily overlooked mistakes. Another concept that I’ve learned is important deals with testing and its methodology. Testing is crucial to ensuring a program works, and becomes more complicated as a project grows larger. Adopting the mindset of a tester is a change as well. We have to figure out how to break something that works to find the flaws in our project. Finally, learning about the Software Development Lifecycle was eye-opening. I never really thought about working on a large-scale project with a team before, but there are a lot of logistics that go into planning a large project and coordinating with coworkers. Additionally, being able to understand the needs of the client and translating those needs into direction for employees is important as well.</p>
 
-```markdown
-Syntax highlighted code block
+<h2 id="portfolio-summary">Portfolio Summary</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<p>All of the courses throughout the Computer Science program have helped me acquire the necessary skills and knowledge to position my self for a job in this industry. CS-250 taught me much about the Software Development Lifecyle and how communication with the client is important. CS-260 was a great lesson on data structures and algorithms. CS-310 showed me the basics of collaboration and explained how working together is necessary for large projects. CS-330 was an information look into the complexity of computer graphics. CS-340 helped me learn about create and use databases and showed how useful they can be.</p>
 
-- Bulleted
-- List
+<p>While my learning was not restricted to these classes, I felt that these were some of the more important classes in the program, at least to me. From these classes I learned things I wasn’t aware of initially. Because of that I wanted to incorporate the things I learned into my Portfolio. My first enhancement builds directly from my CS-330 Final Project and is aimed at increasing the complexity of the object rendered. I chose to do this do demonstrate my skills working with more complex problems. My second enhancement builds off of my IT-145 Final Project. I chose to work with that project in order to rewrite it in a different language and add what I learned from CS-250, by adding data structures and sorting algorithms into the mix. Finally, my third enhancement pulls from both DAT-220 and CS-340. Using the data provided in DAT-220, I wanted to take the MongoDB skills I learned in CS-340 and build an HTML interface to interact with the data.</p>
 
-1. Numbered
-2. List
+<p>Overall, these artifacts represent three distinct projects and don’t necessarily mesh well together. However, I think that together, they allow me to demonstrate what I’ve learned throughout the program. I believe the enhancements made to these three projects represent my learning and display my competency in this program</p>
 
-**Bold** and _Italic_ and `Code` text
+<h2 id="preparing-for-the-future">Preparing For The Future</h2>
 
-[Link](url) and ![Image](src)
-```
+<p>My job in the military does not heavily rely on programming skills. However, having these skills could open up more opportunities in the future. By demonstrating my skills, I could move to a different shop and earn more programming experience to place on my resume. Right now, my career plans are up in the air. I have less than a year left in the military, but don’t have anything concrete set up for when I get out. The most likely outcome is that I’ll re-enlist for four additional years. This isn’t ideal for me because four more years is more commitment that I’d like at this time, but I’d like the job security at least. Since the programming opportunity in the military deals with data analytics, I plan to focus on that and try to specialize in information management in the near future.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p><strong>Porfolio Links</strong><br /></p>
+<ul>
+  <li><a href="https://kdilick9.github.io/index.html">Professional Self-Assessment</a><br /></li>
+  <li><a href="https://kdilick9.github.io/CodeReview.html">Refinement Plan &amp; Code Review</a><br /></li>
+  <li><a href="https://kdilick9.github.io/EnhancementOne.html">Enhancement One</a><br /></li>
+  <li><a href="https://kdilick9.github.io/EnhancementTwo.html">Enhancement Two</a><br /></li>
+  <li><a href="https://kdilick9.github.io/EnhancementThree.html">Enhancement Three</a></li>
+</ul>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briansnhu/eportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      </section>
+    </div>
