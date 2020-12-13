@@ -1,7 +1,3 @@
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-
 <h1 id="cs-499-eportfolio">CS-499 ePortfolio</h1>
 
 <h2 id="refinement-plan--code-review">Refinement Plan &amp; Code Review</h2>
